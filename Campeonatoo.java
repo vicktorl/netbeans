@@ -56,9 +56,7 @@ public static void main(String[] args) {
      }else if(puntos>20 && puntos<31){
          System.out.println("liguilla de campeonato");
      }
-     
-    
-}
+   }
 }   
     
     
